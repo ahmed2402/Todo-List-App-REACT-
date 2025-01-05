@@ -45,7 +45,7 @@
 
 ## Live Demo
 
-The application is deployed on **Vercel**. You can access the live version [here](https://listify.vercel.app/).
+The application is deployed on **Vercel**. You can access the live version [here](https://todo-list-app-react-6rel.vercel.app/).
 
 ## Usage
 
